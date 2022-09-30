@@ -13,3 +13,6 @@ Depois copia o link do SSH ou do HTTPS, ou clica no botão de copia
 Agora entre no git em alguma pasta, depois digite git clone e cole o link ssh ou https e aperte enter
 
 ![imagem_2022-09-30_104038107](https://user-images.githubusercontent.com/73754403/193293057-fb51439e-f165-40ac-9d5b-cd36ffd542bd.png)
+
+
+Depois desses passos você concluiu o clone do seu repertorio do gitHub para seu computador.
