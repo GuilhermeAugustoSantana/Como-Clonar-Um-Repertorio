@@ -1,4 +1,4 @@
-# Tutorial de como clonar um repertorio do gitHub
+# Tutorial de como clonar um repositorio do gitHub
 
 Primerio você clica em Code
 
